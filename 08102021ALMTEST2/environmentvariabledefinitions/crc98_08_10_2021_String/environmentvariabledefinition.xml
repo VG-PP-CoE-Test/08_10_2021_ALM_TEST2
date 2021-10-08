@@ -1,0 +1,9 @@
+<environmentvariabledefinition schemaname="crc98_08_10_2021_String">
+  <displayname default="08_10_2021_String">
+    <label description="08_10_2021_String" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <type>100000000</type>
+</environmentvariabledefinition>
